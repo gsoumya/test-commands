@@ -3,3 +3,5 @@ console.log('brnach1 test cmd');
 console.log('test master 2)
 
 console.log('branch1 second test)
+
+console.log('checkout master using gui');
